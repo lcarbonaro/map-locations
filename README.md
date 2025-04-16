@@ -171,3 +171,9 @@ document.addEventListener('DOMContentLoaded', () => {
 ```
 
 This setup will filter and display only the locations within a 5-mile radius of the user's current location. Let me know if you need any more help! 😊
+
+
+
+### Note about "walking distance"
+A 10-minute walk is generally considered to be about a half-mile (0.5 miles) or 800 meters.
+
